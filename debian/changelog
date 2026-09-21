@@ -1,3 +1,9 @@
+libdatrie (0.2.13-2deepin1) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Mon, 21 Sep 2026 15:14:00 +0800
+
 libdatrie (0.2.13-2) unstable; urgency=medium
 
   * d/tests/build: Make build test cross-testable.
